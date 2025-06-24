@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 <p align="center">
-  <img src="https://www.winedeals.com/media/magefan_blog/Wine_Collecting.jpg" alt="Wine Banner" width="60%">
+  <img src="Wine wine wine.jpeg" alt="Wine Banner" width="60%">
 </p>
 
 ---
