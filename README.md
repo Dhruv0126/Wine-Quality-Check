@@ -92,12 +92,12 @@ Contributions are welcome! Feel free to fork the repo, open issues, or submit pu
 ---
 
 ## 🐞 Issues
-Found a bug or have a feature request? [Open an issue](https://github.com/your-username/your-repo/issues) and let's improve together!
+Found a bug or have a feature request? [Open an issue](https://github.com/Dhruv0126/Wine-Quality-Check//issues) and let's improve together!
 
 ---
 
 ## 📬 Contact
-Made with ❤️ by **Your Name**. Connect on [LinkedIn](https://www.linkedin.com/) or [GitHub](https://github.com/your-username)!
+Made with ❤️ by **Dhruv Gupta**. Connect on [LinkedIn](https://www.linkedin.com/in/dhruvgupta0126/) or [GitHub](https://github.com/Dhruv0126/)!
 
 ---
 
